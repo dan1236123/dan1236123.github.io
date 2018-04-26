@@ -24,10 +24,14 @@ body {
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 740px;
+   margin: 0 auto;
+  max-width: 960px;
   padding: 0 10px;
   width: 100%;
+  background: rgba(204, 41, 0, 0.6);
+  border-radius: 25px;
+  padding: 20px;
+  border-bottom: 1.5px rgb(80, 65, 65);
 }
 
  div {
